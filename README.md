@@ -1,7 +1,7 @@
 # Mohamed-Emad-El-Deen
 <h1 align="center">Hi , I'm Mohamed Emad  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Carter+One&weight=400&size=40&duration=3500&pause=1000&color=78A99AFF&center=true&vCenter=true&random=true&width=435&lines=Software+Engineer;Senior+Student" alt="Typing SVG" /></a>
+ Junior Software Engineer
 </p>
 
 
@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- I Am a Senior at [Faculty of Computer Science , Ain-Shams University](https://www.asu.edu.eg/ar).
+- I Have Graduated From [Faculty of Computer Science , Ain-Shams University](https://www.asu.edu.eg/ar).
 - I’m Currently Learning **.NET ASP Full Stack**.
 - I Love **Problem Solving**.
 - I’m Currently Open For `an Intern` Or a New `Job Opportunity`, 
