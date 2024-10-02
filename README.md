@@ -19,7 +19,7 @@
 
 <br><br>
 - I Have Graduated From [Faculty of Computer Science , Ain-Shams University](https://www.asu.edu.eg/ar).
-- I’m Currently Learning **.NET ASP Full Stack**.
+- I’m Currently Learning **ASP.NET Full Stack**.
 - I Love **Problem Solving**.
 - I’m Currently Open For `an Intern` Or a New `Job Opportunity`, 
 - Open For New Stuff.
